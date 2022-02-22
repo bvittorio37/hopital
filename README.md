@@ -1,2 +1,0 @@
-# hopital
-Java/ Servlet/ Postgres
